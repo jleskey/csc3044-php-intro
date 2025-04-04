@@ -1,5 +1,8 @@
 <?php
 
+// Author: Joseph Leskey (heavily using existing material)
+// Date: 4 April 2025
+
 session_start();
 
 if (!isset($_SESSION['visit']))
